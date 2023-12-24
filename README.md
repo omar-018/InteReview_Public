@@ -25,51 +25,51 @@ Stay ahead of the curve with InteReview's tailored interview tips. Gain access t
 ## Demo GUI of the App
 
 ### 1. **Login & Signup**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/Landing.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/Landing.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 2. **Homepage and Past Interviews**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/HomePage.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/HomePage.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 3. **Start Mock**
 <p align="left">
-   <img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/StartMock1.gif" alt="GIF 1", width="40%"> &nbsp; &nbsp; 
-   <img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/StartMock2.gif" alt="GIF 1", width="40%">
+   <img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/StartMock1.gif" alt="GIF 1", width="40%"> &nbsp; &nbsp; 
+   <img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/StartMock2.gif" alt="GIF 1", width="40%">
 </p>
 
 <br>
 
 ### 4. **Get Mock Tips**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/GetTips.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/GetTips.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 5. **View Schedule**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/ViewSchedule.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/ViewSchedule.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 6. **View Progress**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/ViewProgress.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/ViewProgress.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 7. **Saved Tips**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/SavedTips.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/SavedTips.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 8. **Settings**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/Settings.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/Settings.gif" alt="GIF 1", width="40%"></p>
 
 <br>
 
 ### 9. **Light Mode**
-<p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/LightMode.gif" alt="GIF 1", width="40%"></p>
+<p align="left"><img src="https://github.com/omar-018/InteReview_Public/blob/main/Visuals/LightMode.gif" alt="GIF 1", width="40%"></p>
 
 ## About
-Contact us at <u>*intereview.gradproject@gmail.com*</u> for any queries.
+Contact us at <u>*intereview.gradproject@gmail.com*</u> for any queries. <br>
 **InteReview** - Created By Mariana Marchenko, Omar Taher, Sandro Samaha, Taha Afsar, and Zain Syed
