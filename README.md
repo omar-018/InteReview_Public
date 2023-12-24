@@ -3,7 +3,7 @@
 ## Project Overview
 
 Welcome to InteReview, your go-to platform for mastering the art of job interviews. This capstone project is meticulously crafted to empower individuals in effectively preparing for their upcoming professional encounters. <br><br>
-***Note:*** This is a public version of the repository, to request access for the private version containing the code files, please email us using the address given at the bottom of this file.
+***<u>Note:</u> This is a public version of the repository, to request access for the private version containing the code files, please email us using the address given at the bottom of this file.***
 
 ### Key Features
 
