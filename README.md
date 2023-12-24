@@ -6,25 +6,23 @@ Welcome to InteReview, your go-to platform for mastering the art of job intervie
 
 ### Key Features
 
-1. Start Mock
+1. Start Mock <br>
 InteReview revolutionizes your preparation process with the innovative "Start Mock" feature. Tailored to your job title and experience, it generates comprehensive sets of interview questions. As you respond, the platform captures video and audio footage, providing a detailed analysis of your performance.
 
-2. Mock Evaluation
+2. Mock Evaluation <br>
 Experience a thorough evaluation of your mock interviews using advanced algorithms. InteReview employs facial emotion recognition, speech emotion recognition, stuttering detection, long pauses detection, sentiment analysis, and gaze estimation to provide constructive feedback on your performance.
 
-3. View Progress
+3. View Progress <br>
 Navigate your journey with ease through InteReview's intuitive interface, offering a visual representation of your progress. Track your development over time, review past interviews, and delve into detailed evaluations to refine your interview strategy.
 
-4. Scheduling
+4. Scheduling <br>
 Effortlessly manage your preparation schedule using the built-in scheduling feature. Allocate dedicated time for mock interviews, study sessions, and self-improvement, ensuring a holistic approach to your interview readiness.
 
-5. Get Interview Tips
+5. Get Interview Tips <br>
 Stay ahead of the curve with InteReview's tailored interview tips. Gain access to knowledge and strategies designed to navigate various interview scenarios successfully. Save your favorite tips for future reference in the convenient Saved Tips section.
 
 
 ## Demo GUI of the App
-
-<br>
 
 ### 1. **Login & Signup**
 <p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/Landing.gif" alt="GIF 1", width="40%"></p>
@@ -71,8 +69,6 @@ Stay ahead of the curve with InteReview's tailored interview tips. Gain access t
 
 ### 9. **Light Mode**
 <p align="left"><img src="https://github.com/omar-018/InteReview/blob/InteReview%400.1/LightMode.gif" alt="GIF 1", width="40%"></p>
-
-<br>
 
 ## About
 Contact us at <u>*intereview.gradproject@gmail.com*</u> for any queries.
