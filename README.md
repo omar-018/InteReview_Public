@@ -7,7 +7,7 @@ Welcome to InteReview, your go-to platform for mastering the art of job intervie
 ### Key Features
 
 1. Start Mock <br>
-InteReview revolutionizes your preparation process with the innovative "Start Mock" feature. Tailored to your job title and experience, it generates comprehensive sets of interview questions. As you respond, the platform captures video and audio footage, providing a detailed analysis of your performance.
+- InteReview revolutionizes your preparation process with the innovative "Start Mock" feature. Tailored to your job title and experience, it generates comprehensive sets of interview questions. As you respond, the platform captures video and audio footage, providing a detailed analysis of your performance.
 
 2. Mock Evaluation <br>
 Experience a thorough evaluation of your mock interviews using advanced algorithms. InteReview employs facial emotion recognition, speech emotion recognition, stuttering detection, long pauses detection, sentiment analysis, and gaze estimation to provide constructive feedback on your performance.
